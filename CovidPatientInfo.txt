@@ -1,0 +1,1 @@
+FirstName:  ,LastName:  ,Cnic:  ,DOB:  ,Gender: Gender,Email:  ,Address:  ,Symptoms: Please check all symptoms that apply: ,Contact with someone: Have you been in contact with anyone in the last 14 days who is experiencing these symptoms?*** ,Contact with someone afer covid Test: Have you been in contact with anyone who has since tested positive for Covid-19?*** 

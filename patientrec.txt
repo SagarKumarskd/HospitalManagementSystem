@@ -1,0 +1,6 @@
+PatientID: 21,Name: Basit,ContactNo: 0300251889,Age: 19,Gender: Male,BloodGroup: A+,Address: Sorahae hain,HistoricDisease: Pata nahin
+PatientID: 22,Name: Basit2,ContactNo: 014124124,Age: 20,Gender: Male,BloodGroup: A,Address: asdasdas,HistoricDisease: asdasdasd
+PatientID: 64,Name: Adnan,ContactNo: 0331242142,Age: 20,Gender: Male,BloodGroup: A,Address: C-245 Block34,HistoricDisease: -
+PatientID: 1,Name: Yougeeta,ContactNo: 0342565412,Age: 15,Gender: Female ,BloodGroup: B+,Address: xyz,HistoricDisease: xyz
+PatientID: sagar,Name: ,ContactNo: ,Age: ,Gender: Choose Gender,BloodGroup: ,Address: ,HistoricDisease: 
+PatientID: 1,Name: sagar,ContactNo: 02545455,Age: 19,Gender: Male,BloodGroup: B+,Address: hfgjkkkkkkkkkkkkkkkkk,HistoricDisease: FEVER
